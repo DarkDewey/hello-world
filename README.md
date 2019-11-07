@@ -1,3 +1,3 @@
 # hello-world
- nothing
-cooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooool
+It's a green hand's code.
+XD
